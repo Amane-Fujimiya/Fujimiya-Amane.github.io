@@ -3,9 +3,8 @@ After frenzy hiccup and finally a serious quarrel with codes and C++, I have cam
 But for now, I am a little bit confused of what to do in the future, to the point that I actually think it is better to not do anything at all, and maybe perhaps working on self-improvement instead of chasing my own tales of success. 
 Laying off seems to be better I guess.
 
-# News Update[^1]
+# News Update
 I will start doing actual research catalogue, maybe later this date. 
-# Research Recommendation[^2]
 ___
 ## QOTD (Question of the day)
 
