@@ -16,3 +16,7 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
   gem "jekyll-spaceship"
 end
+
+gem "webrick", "~> 1.8"
+
+gem "faraday-retry", "~> 2.2"
